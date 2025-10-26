@@ -11,6 +11,7 @@ This is an ECE444 lab that deploys machine learning models to the cloud using a 
 ### Functional Test
 #### Test Cases
 | Test Case | Expected Result |
+|-----------|-----------------|
 |This is a real news. | "REAL" |
 |This is a fake news. | "FAKE" |
 |The government has announced a new policy to improve education. | "REAL" |
@@ -20,4 +21,4 @@ This is an ECE444 lab that deploys machine learning models to the cloud using a 
 
 ### Performance Test
 !['performance test box plot'](/tests/latency_boxplot.png)
-![100 runs for each test case results in excel sheet](/tests/performance_test_results.csv)
+[100 runs for each test case results in excel sheet](/tests/performance_test_results.csv)
