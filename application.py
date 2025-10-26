@@ -12,20 +12,14 @@ application = Flask(__name__)
 
 # Function to load the model
 def load_model():
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-
-    model_path = os.path.join(base_dir, 'basic_classifier.pkl')
-    vectorizer_path = os.path.join(base_dir, 'count_vectorizer.pkl')
-
-    with open(model_path, 'rb') as fid:
+    loaded_model = None
+    with open('basic_classifier.pkl', 'rb') as fid:
         loaded_model = pickle.load(fid)
-
-    with open(vectorizer_path, 'rb') as vd:
+    vectorizer = None
+    with open('count_vectorizer.pkl', 'rb') as vd:
         vectorizer = pickle.load(vd)
-
     return loaded_model, vectorizer
 
-# Load the model and vectorizer at startup
 loaded_model, vectorizer = load_model()
 
 #######################################################
@@ -36,18 +30,18 @@ loaded_model, vectorizer = load_model()
 def index():
     prediction = None
     color = 'black'
+    text = ''
 
     if request.method == 'POST':
         text = request.form.get('text', '').strip()
         if text:
-            text_vectorized = vectorizer.transform([text])
-            prediction = loaded_model.predict(text_vectorized)[0]
+            prediction = loaded_model.predict(vectorizer.transform([text]))[0]
             color = 'red' if prediction == 'FAKE' else 'green'
     return render_template(
         'index.html',
         prediction=prediction,
         color=color,
-        text=text if request.method == 'POST' else ''
+        text=text
     )
 
 @application.route('/health', methods=['GET'])
