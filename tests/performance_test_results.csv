@@ -1,0 +1,401 @@
+case_id,input_text,expected_label,predicted_label,run_number,latency_ms
+1,This is a real news.,REAL,REAL,1,89.56890000263229
+1,This is a real news.,REAL,REAL,2,53.751699975691736
+1,This is a real news.,REAL,REAL,3,52.298399969004095
+1,This is a real news.,REAL,REAL,4,60.715500032529235
+1,This is a real news.,REAL,REAL,5,56.055799999739975
+1,This is a real news.,REAL,REAL,6,58.621800038963556
+1,This is a real news.,REAL,REAL,7,60.80809998093173
+1,This is a real news.,REAL,REAL,8,60.68639998557046
+1,This is a real news.,REAL,REAL,9,60.28360000345856
+1,This is a real news.,REAL,REAL,10,57.97960003837943
+1,This is a real news.,REAL,REAL,11,53.67659998591989
+1,This is a real news.,REAL,REAL,12,55.627699999604374
+1,This is a real news.,REAL,REAL,13,58.91490000067279
+1,This is a real news.,REAL,REAL,14,53.83059999439865
+1,This is a real news.,REAL,REAL,15,58.369899983517826
+1,This is a real news.,REAL,REAL,16,56.07230000896379
+1,This is a real news.,REAL,REAL,17,52.14620003243908
+1,This is a real news.,REAL,REAL,18,51.248000003397465
+1,This is a real news.,REAL,REAL,19,55.53040001541376
+1,This is a real news.,REAL,REAL,20,56.11560004763305
+1,This is a real news.,REAL,REAL,21,59.9305999930948
+1,This is a real news.,REAL,REAL,22,61.85830000322312
+1,This is a real news.,REAL,REAL,23,53.95219998899847
+1,This is a real news.,REAL,REAL,24,54.43439999362454
+1,This is a real news.,REAL,REAL,25,58.50889999419451
+1,This is a real news.,REAL,REAL,26,55.883999972138554
+1,This is a real news.,REAL,REAL,27,56.38530000578612
+1,This is a real news.,REAL,REAL,28,61.1157999956049
+1,This is a real news.,REAL,REAL,29,53.16249997122213
+1,This is a real news.,REAL,REAL,30,56.952000013552606
+1,This is a real news.,REAL,REAL,31,59.6895000198856
+1,This is a real news.,REAL,REAL,32,54.2843000148423
+1,This is a real news.,REAL,REAL,33,60.98849995760247
+1,This is a real news.,REAL,REAL,34,62.15630000224337
+1,This is a real news.,REAL,REAL,35,56.97400000644848
+1,This is a real news.,REAL,REAL,36,54.39439998008311
+1,This is a real news.,REAL,REAL,37,57.36279999837279
+1,This is a real news.,REAL,REAL,38,60.07199996383861
+1,This is a real news.,REAL,REAL,39,52.88390000350773
+1,This is a real news.,REAL,REAL,40,59.87619998631999
+1,This is a real news.,REAL,REAL,41,54.84620004426688
+1,This is a real news.,REAL,REAL,42,55.651300004683435
+1,This is a real news.,REAL,REAL,43,60.12239999836311
+1,This is a real news.,REAL,REAL,44,57.06269998336211
+1,This is a real news.,REAL,REAL,45,62.47240002267063
+1,This is a real news.,REAL,REAL,46,60.91619998915121
+1,This is a real news.,REAL,REAL,47,56.53549998532981
+1,This is a real news.,REAL,REAL,48,55.8420000015758
+1,This is a real news.,REAL,REAL,49,55.82150002010167
+1,This is a real news.,REAL,REAL,50,50.814000016544014
+1,This is a real news.,REAL,REAL,51,55.08929997449741
+1,This is a real news.,REAL,REAL,52,60.59319997439161
+1,This is a real news.,REAL,REAL,53,56.978900043759495
+1,This is a real news.,REAL,REAL,54,55.35659997258335
+1,This is a real news.,REAL,REAL,55,57.40900000091642
+1,This is a real news.,REAL,REAL,56,65.51370001398027
+1,This is a real news.,REAL,REAL,57,59.65399998240173
+1,This is a real news.,REAL,REAL,58,55.76509999809787
+1,This is a real news.,REAL,REAL,59,58.58720000833273
+1,This is a real news.,REAL,REAL,60,56.87760002911091
+1,This is a real news.,REAL,REAL,61,52.18909995164722
+1,This is a real news.,REAL,REAL,62,49.86779997125268
+1,This is a real news.,REAL,REAL,63,53.805299976374954
+1,This is a real news.,REAL,REAL,64,55.92020001495257
+1,This is a real news.,REAL,REAL,65,55.05589995300397
+1,This is a real news.,REAL,REAL,66,51.43089999910444
+1,This is a real news.,REAL,REAL,67,52.944499999284744
+1,This is a real news.,REAL,REAL,68,59.229200007393956
+1,This is a real news.,REAL,REAL,69,57.05819994909689
+1,This is a real news.,REAL,REAL,70,53.25210001319647
+1,This is a real news.,REAL,REAL,71,56.43980001332238
+1,This is a real news.,REAL,REAL,72,55.60119997244328
+1,This is a real news.,REAL,REAL,73,61.10310001531616
+1,This is a real news.,REAL,REAL,74,55.09809998329729
+1,This is a real news.,REAL,REAL,75,50.14899995876476
+1,This is a real news.,REAL,REAL,76,55.19560002721846
+1,This is a real news.,REAL,REAL,77,53.32539998926222
+1,This is a real news.,REAL,REAL,78,53.34510002285242
+1,This is a real news.,REAL,REAL,79,60.758200008422136
+1,This is a real news.,REAL,REAL,80,57.88039998151362
+1,This is a real news.,REAL,REAL,81,52.74389998521656
+1,This is a real news.,REAL,REAL,82,53.796500025782734
+1,This is a real news.,REAL,REAL,83,53.94389998400584
+1,This is a real news.,REAL,REAL,84,49.82479999307543
+1,This is a real news.,REAL,REAL,85,55.83269998896867
+1,This is a real news.,REAL,REAL,86,51.1881000129506
+1,This is a real news.,REAL,REAL,87,49.95700001018122
+1,This is a real news.,REAL,REAL,88,55.24289997993037
+1,This is a real news.,REAL,REAL,89,55.120799981523305
+1,This is a real news.,REAL,REAL,90,51.44730000756681
+1,This is a real news.,REAL,REAL,91,56.64580001030117
+1,This is a real news.,REAL,REAL,92,55.17499998677522
+1,This is a real news.,REAL,REAL,93,60.93209999380633
+1,This is a real news.,REAL,REAL,94,57.39319999702275
+1,This is a real news.,REAL,REAL,95,56.254499999340624
+1,This is a real news.,REAL,REAL,96,56.9954999955371
+1,This is a real news.,REAL,REAL,97,55.16559997340664
+1,This is a real news.,REAL,REAL,98,57.96040000859648
+1,This is a real news.,REAL,REAL,99,61.20519997784868
+1,This is a real news.,REAL,REAL,100,70.58780000079423
+2,This is a fake news.,FAKE,FAKE,1,61.52109999675304
+2,This is a fake news.,FAKE,FAKE,2,56.85360002098605
+2,This is a fake news.,FAKE,FAKE,3,61.229399987496436
+2,This is a fake news.,FAKE,FAKE,4,60.579199984204024
+2,This is a fake news.,FAKE,FAKE,5,57.05780000425875
+2,This is a fake news.,FAKE,FAKE,6,55.91729999287054
+2,This is a fake news.,FAKE,FAKE,7,59.2668000026606
+2,This is a fake news.,FAKE,FAKE,8,58.6889999685809
+2,This is a fake news.,FAKE,FAKE,9,57.6901999884285
+2,This is a fake news.,FAKE,FAKE,10,59.875399980228394
+2,This is a fake news.,FAKE,FAKE,11,64.34109999099746
+2,This is a fake news.,FAKE,FAKE,12,63.43760003801435
+2,This is a fake news.,FAKE,FAKE,13,61.60840002121404
+2,This is a fake news.,FAKE,FAKE,14,62.491799995768815
+2,This is a fake news.,FAKE,FAKE,15,55.01439998624846
+2,This is a fake news.,FAKE,FAKE,16,52.88390000350773
+2,This is a fake news.,FAKE,FAKE,17,52.95230000047013
+2,This is a fake news.,FAKE,FAKE,18,57.08890000823885
+2,This is a fake news.,FAKE,FAKE,19,49.6424000011757
+2,This is a fake news.,FAKE,FAKE,20,56.29629996838048
+2,This is a fake news.,FAKE,FAKE,21,56.47419998422265
+2,This is a fake news.,FAKE,FAKE,22,58.658699970692396
+2,This is a fake news.,FAKE,FAKE,23,62.43690004339442
+2,This is a fake news.,FAKE,FAKE,24,59.018799976911396
+2,This is a fake news.,FAKE,FAKE,25,53.88260004110634
+2,This is a fake news.,FAKE,FAKE,26,53.8735999725759
+2,This is a fake news.,FAKE,FAKE,27,52.517500007525086
+2,This is a fake news.,FAKE,FAKE,28,52.67389997607097
+2,This is a fake news.,FAKE,FAKE,29,57.32830002671108
+2,This is a fake news.,FAKE,FAKE,30,60.675499960780144
+2,This is a fake news.,FAKE,FAKE,31,54.6252999920398
+2,This is a fake news.,FAKE,FAKE,32,53.286399983335286
+2,This is a fake news.,FAKE,FAKE,33,52.86850000265986
+2,This is a fake news.,FAKE,FAKE,34,54.2336999787949
+2,This is a fake news.,FAKE,FAKE,35,61.39749998692423
+2,This is a fake news.,FAKE,FAKE,36,56.9530000211671
+2,This is a fake news.,FAKE,FAKE,37,65.3675000066869
+2,This is a fake news.,FAKE,FAKE,38,53.11979999532923
+2,This is a fake news.,FAKE,FAKE,39,53.292599972337484
+2,This is a fake news.,FAKE,FAKE,40,55.43850001413375
+2,This is a fake news.,FAKE,FAKE,41,54.895500012207776
+2,This is a fake news.,FAKE,FAKE,42,57.82460002228618
+2,This is a fake news.,FAKE,FAKE,43,58.22049995185807
+2,This is a fake news.,FAKE,FAKE,44,61.802799988072366
+2,This is a fake news.,FAKE,FAKE,45,55.65039999783039
+2,This is a fake news.,FAKE,FAKE,46,57.8576999832876
+2,This is a fake news.,FAKE,FAKE,47,77.8474000399001
+2,This is a fake news.,FAKE,FAKE,48,50.68999994546175
+2,This is a fake news.,FAKE,FAKE,49,52.36769997281954
+2,This is a fake news.,FAKE,FAKE,50,59.033800032921135
+2,This is a fake news.,FAKE,FAKE,51,55.852599965874106
+2,This is a fake news.,FAKE,FAKE,52,55.12490001274273
+2,This is a fake news.,FAKE,FAKE,53,54.843899968545884
+2,This is a fake news.,FAKE,FAKE,54,57.5408999575302
+2,This is a fake news.,FAKE,FAKE,55,57.77919996762648
+2,This is a fake news.,FAKE,FAKE,56,57.71720001939684
+2,This is a fake news.,FAKE,FAKE,57,55.87089998880401
+2,This is a fake news.,FAKE,FAKE,58,53.48979996051639
+2,This is a fake news.,FAKE,FAKE,59,53.38370002573356
+2,This is a fake news.,FAKE,FAKE,60,59.174099995289
+2,This is a fake news.,FAKE,FAKE,61,50.72409997228533
+2,This is a fake news.,FAKE,FAKE,62,59.680999955162406
+2,This is a fake news.,FAKE,FAKE,63,56.24180001905188
+2,This is a fake news.,FAKE,FAKE,64,59.61709999246523
+2,This is a fake news.,FAKE,FAKE,65,61.21079996228218
+2,This is a fake news.,FAKE,FAKE,66,54.801000049337745
+2,This is a fake news.,FAKE,FAKE,67,58.87410003924742
+2,This is a fake news.,FAKE,FAKE,68,51.05890001868829
+2,This is a fake news.,FAKE,FAKE,69,49.880300008226186
+2,This is a fake news.,FAKE,FAKE,70,56.096600019373
+2,This is a fake news.,FAKE,FAKE,71,56.01080000633374
+2,This is a fake news.,FAKE,FAKE,72,61.18020002031699
+2,This is a fake news.,FAKE,FAKE,73,62.23470001714304
+2,This is a fake news.,FAKE,FAKE,74,57.587700022850186
+2,This is a fake news.,FAKE,FAKE,75,53.63819998456165
+2,This is a fake news.,FAKE,FAKE,76,55.922199971973896
+2,This is a fake news.,FAKE,FAKE,77,56.26959999790415
+2,This is a fake news.,FAKE,FAKE,78,60.17379998229444
+2,This is a fake news.,FAKE,FAKE,79,59.81679999968037
+2,This is a fake news.,FAKE,FAKE,80,58.84620000142604
+2,This is a fake news.,FAKE,FAKE,81,54.354800027795136
+2,This is a fake news.,FAKE,FAKE,82,57.925800036173314
+2,This is a fake news.,FAKE,FAKE,83,60.68449997110292
+2,This is a fake news.,FAKE,FAKE,84,60.36520004272461
+2,This is a fake news.,FAKE,FAKE,85,62.217900005634874
+2,This is a fake news.,FAKE,FAKE,86,62.999899964779615
+2,This is a fake news.,FAKE,FAKE,87,55.70070003159344
+2,This is a fake news.,FAKE,FAKE,88,52.130799973383546
+2,This is a fake news.,FAKE,FAKE,89,52.683399990200996
+2,This is a fake news.,FAKE,FAKE,90,50.10380002204329
+2,This is a fake news.,FAKE,FAKE,91,58.239599980879575
+2,This is a fake news.,FAKE,FAKE,92,51.202200003899634
+2,This is a fake news.,FAKE,FAKE,93,56.28570000408217
+2,This is a fake news.,FAKE,FAKE,94,57.60499997995794
+2,This is a fake news.,FAKE,FAKE,95,55.70349999470636
+2,This is a fake news.,FAKE,FAKE,96,57.96160001773387
+2,This is a fake news.,FAKE,FAKE,97,57.24819999886677
+2,This is a fake news.,FAKE,FAKE,98,58.916900015901774
+2,This is a fake news.,FAKE,FAKE,99,59.562899987213314
+2,This is a fake news.,FAKE,FAKE,100,59.112499991897494
+3,The government has announced a new policy to improve education.,REAL,REAL,1,50.22480001207441
+3,The government has announced a new policy to improve education.,REAL,REAL,2,51.91199999535456
+3,The government has announced a new policy to improve education.,REAL,REAL,3,54.23710000468418
+3,The government has announced a new policy to improve education.,REAL,REAL,4,56.241000012960285
+3,The government has announced a new policy to improve education.,REAL,REAL,5,55.620300001464784
+3,The government has announced a new policy to improve education.,REAL,REAL,6,55.245499999728054
+3,The government has announced a new policy to improve education.,REAL,REAL,7,59.04679995728657
+3,The government has announced a new policy to improve education.,REAL,REAL,8,56.65350001072511
+3,The government has announced a new policy to improve education.,REAL,REAL,9,54.322400013916194
+3,The government has announced a new policy to improve education.,REAL,REAL,10,54.55410003196448
+3,The government has announced a new policy to improve education.,REAL,REAL,11,58.59149998286739
+3,The government has announced a new policy to improve education.,REAL,REAL,12,59.66010002885014
+3,The government has announced a new policy to improve education.,REAL,REAL,13,58.187599992379546
+3,The government has announced a new policy to improve education.,REAL,REAL,14,56.99269997421652
+3,The government has announced a new policy to improve education.,REAL,REAL,15,55.95969996647909
+3,The government has announced a new policy to improve education.,REAL,REAL,16,53.21359995286912
+3,The government has announced a new policy to improve education.,REAL,REAL,17,59.77400002302602
+3,The government has announced a new policy to improve education.,REAL,REAL,18,53.22499998146668
+3,The government has announced a new policy to improve education.,REAL,REAL,19,55.19709998043254
+3,The government has announced a new policy to improve education.,REAL,REAL,20,57.683899998664856
+3,The government has announced a new policy to improve education.,REAL,REAL,21,60.4268999886699
+3,The government has announced a new policy to improve education.,REAL,REAL,22,57.2060999693349
+3,The government has announced a new policy to improve education.,REAL,REAL,23,59.34859998524189
+3,The government has announced a new policy to improve education.,REAL,REAL,24,61.45979999564588
+3,The government has announced a new policy to improve education.,REAL,REAL,25,63.58039996121079
+3,The government has announced a new policy to improve education.,REAL,REAL,26,57.608500006608665
+3,The government has announced a new policy to improve education.,REAL,REAL,27,61.020600027404726
+3,The government has announced a new policy to improve education.,REAL,REAL,28,56.959500012453645
+3,The government has announced a new policy to improve education.,REAL,REAL,29,63.28770000254735
+3,The government has announced a new policy to improve education.,REAL,REAL,30,55.14539999421686
+3,The government has announced a new policy to improve education.,REAL,REAL,31,61.232300009578466
+3,The government has announced a new policy to improve education.,REAL,REAL,32,59.39860001672059
+3,The government has announced a new policy to improve education.,REAL,REAL,33,57.734600035473704
+3,The government has announced a new policy to improve education.,REAL,REAL,34,60.75890001375228
+3,The government has announced a new policy to improve education.,REAL,REAL,35,52.42520000319928
+3,The government has announced a new policy to improve education.,REAL,REAL,36,53.445299970917404
+3,The government has announced a new policy to improve education.,REAL,REAL,37,53.78080002265051
+3,The government has announced a new policy to improve education.,REAL,REAL,38,50.61930004740134
+3,The government has announced a new policy to improve education.,REAL,REAL,39,52.30199999641627
+3,The government has announced a new policy to improve education.,REAL,REAL,40,55.74390001129359
+3,The government has announced a new policy to improve education.,REAL,REAL,41,57.32750002061948
+3,The government has announced a new policy to improve education.,REAL,REAL,42,55.44199998257682
+3,The government has announced a new policy to improve education.,REAL,REAL,43,55.467600002884865
+3,The government has announced a new policy to improve education.,REAL,REAL,44,56.69380002655089
+3,The government has announced a new policy to improve education.,REAL,REAL,45,59.44680003449321
+3,The government has announced a new policy to improve education.,REAL,REAL,46,66.5529000107199
+3,The government has announced a new policy to improve education.,REAL,REAL,47,61.03049998637289
+3,The government has announced a new policy to improve education.,REAL,REAL,48,55.1044000312686
+3,The government has announced a new policy to improve education.,REAL,REAL,49,56.66450003627688
+3,The government has announced a new policy to improve education.,REAL,REAL,50,61.86340004205704
+3,The government has announced a new policy to improve education.,REAL,REAL,51,56.297400034964085
+3,The government has announced a new policy to improve education.,REAL,REAL,52,56.32370000239462
+3,The government has announced a new policy to improve education.,REAL,REAL,53,57.1267000050284
+3,The government has announced a new policy to improve education.,REAL,REAL,54,61.755700036883354
+3,The government has announced a new policy to improve education.,REAL,REAL,55,59.06810000305995
+3,The government has announced a new policy to improve education.,REAL,REAL,56,58.26389999128878
+3,The government has announced a new policy to improve education.,REAL,REAL,57,63.735000032465905
+3,The government has announced a new policy to improve education.,REAL,REAL,58,58.26419999357313
+3,The government has announced a new policy to improve education.,REAL,REAL,59,53.06219996418804
+3,The government has announced a new policy to improve education.,REAL,REAL,60,53.84159996174276
+3,The government has announced a new policy to improve education.,REAL,REAL,61,58.86240000836551
+3,The government has announced a new policy to improve education.,REAL,REAL,62,58.95879998570308
+3,The government has announced a new policy to improve education.,REAL,REAL,63,66.54560001334175
+3,The government has announced a new policy to improve education.,REAL,REAL,64,61.57530000200495
+3,The government has announced a new policy to improve education.,REAL,REAL,65,60.35620003240183
+3,The government has announced a new policy to improve education.,REAL,REAL,66,64.5368000259623
+3,The government has announced a new policy to improve education.,REAL,REAL,67,56.807000015396625
+3,The government has announced a new policy to improve education.,REAL,REAL,68,60.70019997423515
+3,The government has announced a new policy to improve education.,REAL,REAL,69,77.64930004486814
+3,The government has announced a new policy to improve education.,REAL,REAL,70,50.853700027801096
+3,The government has announced a new policy to improve education.,REAL,REAL,71,64.27829997846857
+3,The government has announced a new policy to improve education.,REAL,REAL,72,63.37079999502748
+3,The government has announced a new policy to improve education.,REAL,REAL,73,57.48939997283742
+3,The government has announced a new policy to improve education.,REAL,REAL,74,54.894000000786036
+3,The government has announced a new policy to improve education.,REAL,REAL,75,73.77060002181679
+3,The government has announced a new policy to improve education.,REAL,REAL,76,82.59430003818125
+3,The government has announced a new policy to improve education.,REAL,REAL,77,94.8602000134997
+3,The government has announced a new policy to improve education.,REAL,REAL,78,69.18799999402836
+3,The government has announced a new policy to improve education.,REAL,REAL,79,62.74760002270341
+3,The government has announced a new policy to improve education.,REAL,REAL,80,61.51159998262301
+3,The government has announced a new policy to improve education.,REAL,REAL,81,66.73630001023412
+3,The government has announced a new policy to improve education.,REAL,REAL,82,84.47120001073927
+3,The government has announced a new policy to improve education.,REAL,REAL,83,74.22799995401874
+3,The government has announced a new policy to improve education.,REAL,REAL,84,76.47630001883954
+3,The government has announced a new policy to improve education.,REAL,REAL,85,84.9072000128217
+3,The government has announced a new policy to improve education.,REAL,REAL,86,82.5545999687165
+3,The government has announced a new policy to improve education.,REAL,REAL,87,78.66549998288974
+3,The government has announced a new policy to improve education.,REAL,REAL,88,70.07329998305067
+3,The government has announced a new policy to improve education.,REAL,REAL,89,65.66949997795746
+3,The government has announced a new policy to improve education.,REAL,REAL,90,83.87420000508428
+3,The government has announced a new policy to improve education.,REAL,REAL,91,80.39139996981248
+3,The government has announced a new policy to improve education.,REAL,REAL,92,61.5072000073269
+3,The government has announced a new policy to improve education.,REAL,REAL,93,88.69639999466017
+3,The government has announced a new policy to improve education.,REAL,REAL,94,80.27719997335225
+3,The government has announced a new policy to improve education.,REAL,REAL,95,65.23760000709444
+3,The government has announced a new policy to improve education.,REAL,REAL,96,71.47690001875162
+3,The government has announced a new policy to improve education.,REAL,REAL,97,89.99629999743775
+3,The government has announced a new policy to improve education.,REAL,REAL,98,72.74849998066202
+3,The government has announced a new policy to improve education.,REAL,REAL,99,72.99710001097992
+3,The government has announced a new policy to improve education.,REAL,REAL,100,82.66650000587106
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,1,68.27659998089075
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,2,83.87649996438995
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,3,79.22680000774562
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,4,77.2831000504084
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,5,80.9181000222452
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,6,75.56189998285845
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,7,87.1161999530159
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,8,86.44240000285208
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,9,75.7597999763675
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,10,78.53649999015033
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,11,84.46500002173707
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,12,68.0663000093773
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,13,70.6112000043504
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,14,76.6544999787584
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,15,60.553900024387985
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,16,75.30839997343719
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,17,67.93040002230555
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,18,77.76960002956912
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,19,69.18799999402836
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,20,73.5582000343129
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,21,53.81509999278933
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,22,62.031100038439035
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,23,82.21769996453077
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,24,71.60999998450279
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,25,67.81959999352694
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,26,84.99110001139343
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,27,76.15149999037385
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,28,91.22970001772046
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,29,60.953899985179305
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,30,55.39249995490536
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,31,62.37889995099977
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,32,54.19999995501712
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,33,57.451299973763525
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,34,53.72189998161048
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,35,61.76980002783239
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,36,60.86129997856915
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,37,56.29060004139319
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,38,57.263199996668845
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,39,54.14349999045953
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,40,49.70200004754588
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,41,54.061499948147684
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,42,56.34300003293902
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,43,60.632199980318546
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,44,61.11760000931099
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,45,56.87259999103844
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,46,61.1164000001736
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,47,53.84200002299622
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,48,53.674599970690906
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,49,53.17139998078346
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,50,49.62299996986985
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,51,55.91279995860532
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,52,53.337100020144135
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,53,63.12399997841567
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,54,57.22359998617321
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,55,60.13110000640154
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,56,61.49739999091253
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,57,57.635400036815554
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,58,58.1186999916099
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,59,59.68189996201545
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,60,61.516799964010715
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,61,58.093100029509515
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,62,60.89510000310838
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,63,59.53110003611073
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,64,59.585200040601194
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,65,53.378600045107305
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,66,55.92509999405593
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,67,58.23279998730868
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,68,60.420599998906255
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,69,57.593800011090934
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,70,65.34309999551624
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,71,58.269200031645596
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,72,55.073600029572845
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,73,58.641100011300296
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,74,56.39159999554977
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,75,51.271800009999424
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,76,51.14090000279248
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,77,57.70669999765232
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,78,57.21250001806766
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,79,53.219800000078976
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,80,58.76929999794811
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,81,71.78330002352595
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,82,57.13650002144277
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,83,58.10069997096434
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,84,57.2451000334695
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,85,59.21069998294115
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,86,55.91080000158399
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,87,59.05919999349862
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,88,56.73050001496449
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,89,58.19389998214319
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,90,60.89660001453012
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,91,59.68060001032427
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,92,61.33240001508966
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,93,62.06389999715611
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,94,59.74860000424087
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,95,60.296100040432066
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,96,55.82120001781732
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,97,55.46069995034486
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,98,55.375900003127754
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,99,59.719800017774105
+4,Celebrity endorses miracle cure that doctors don't want you to know about!,FAKE,FAKE,100,57.72629997227341

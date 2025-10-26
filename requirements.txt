@@ -3,3 +3,8 @@ scikit-learn
 gunicorn
 joblib
 numpy
+requests
+beautifulsoup4
+pandas
+matplotlib
+seaborn
